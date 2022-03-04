@@ -1,4 +1,4 @@
-# MeetingBar Alfred Workflows([Download v0.3](https://github.com/walkersumida/alfredworkflow-meeting-bar/releases/download/v0.3/MeetingBar.alfredworkflow))
+# MeetingBar Alfred Workflows([Download v0.4](https://github.com/walkersumida/alfredworkflow-meeting-bar/releases/download/v0.4/MeetingBar.alfredworkflow))
 
 As a fan of [MeetingBar](https://github.com/leits/MeetingBar), I created Alfred Workflows.
 
