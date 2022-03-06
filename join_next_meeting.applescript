@@ -2,7 +2,7 @@ launch application "System Events"
 delay 0.2
 launch application "System Events"
 ignoring application responses
-	delay 0.1
+	delay 0.2
 	tell application "System Events"
 		tell process "MeetingBar"
 			click menu bar item 1 of menu bar 2
